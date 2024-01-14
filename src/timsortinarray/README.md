@@ -31,3 +31,5 @@
 
 - Bir tamsayı dizisini ekrana yazdırmak için kullanılır.
 - Dizinin her elemanı boşlukla ayrılarak ekrana yazdırılır.
+
+[![timsort](https://r.resimlink.com/nKUDE2.jpg)](https://resimlink.com/nKUDE2)
