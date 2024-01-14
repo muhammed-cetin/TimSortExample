@@ -1,4 +1,4 @@
-package timesortinarray;
+package timsortinarray;
 
 public class TimSort {
     public static void main(String[] args) {
